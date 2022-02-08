@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
 </div>
-
+  
+   
 <div>
-<a href="https://github.com/willianlouza"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianlouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/willianlouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianlouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/willianlouza/willianlouza/blob/output/github-contribution-grid-snake.svg)
