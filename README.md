@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 ## Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
 
-<a href="https://tenor.com/view/bongo-cat-codes-gif-22068584">Bongo Cat Codes GIF</a>from <a href="https://tenor.com/search/bongo+cat+codes-gifs">
+https://tenor.com/bELc4.gif
+
+<img href="https://tenor.com/view/bongo-cat-codes-gif-22068584"/>
