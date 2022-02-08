@@ -37,5 +37,7 @@ Here are some ideas to get you started:
   
 ![Snake animation](https://github.com/willianlouza/willianlouza/blob/output/github-contribution-grid-snake.svg)
   
-<img align="center" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
-  
+
+<div>
+  <img align="center" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
+</div>
