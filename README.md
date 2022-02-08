@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
 </div>
 
-<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif"/>
+<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
 
 #
 
