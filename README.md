@@ -1,4 +1,4 @@
-### Hi there, I'm `#f03c15` Willian Louza 👋
+### Hi there, I'm ![#f03c15] Willian Louza 👋
 
 <!--
 **willianlouza/willianlouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
