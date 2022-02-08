@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   
 
 <div>
-  <img align="center" height="100em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
+  <img align="center" height="180em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
 </div>
