@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/willianlouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&layout=compact&langs_count=7&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willianlouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
+  <img align="right" height="160em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
   </div>
   
 ![Snake animation](https://github.com/willianlouza/willianlouza/blob/output/github-contribution-grid-snake.svg)
