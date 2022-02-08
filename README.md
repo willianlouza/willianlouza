@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 https://tenor.com/bELc4.gif
 
-<img href="https://tenor.com/view/bongo-cat-codes-gif-22068584"/>
+<img href="https://tenor.com/view/bongo-cat-codes-gif-22068584" width="50" height="50"/>
