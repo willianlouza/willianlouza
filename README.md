@@ -1,5 +1,6 @@
 ## 👋 Ola, eu sou o Willian Louza!
 ### Desenvolvedor Web e de jogos.
+<img align="right" height="180em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
 <!--
 **willianlouza/willianlouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +32,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/willianlouza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willianlouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=willianlouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   
 ![Snake animation](https://github.com/willianlouza/willianlouza/blob/output/github-contribution-grid-snake.svg)
