@@ -41,7 +41,7 @@
     </div>
   </div>
   <br />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&theme=radical&hide=html&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&theme=radical&hide=html" />
  <!--
   <div>
     <h1>My Github Stats 📈</h1>
