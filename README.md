@@ -13,7 +13,7 @@
     
   </div>
   <br />
-  <p>I am a driven and enthusiastic Full Stack Developer 💻, eager to bring my passion for technology to any project I work on 💜.<br />
+  <p>I am a driven and enthusiastic Full Stack Developer 💻, eager to bring my passion for technology to any project I work on 💜.
     Currently graduated in Systems Analysis and Development 🎓 and with a strong foundation in coding and a drive to always learn and grow 🌱.<br />
     Let's connect and explore what we can achieve together 🚀.
   </p>
