@@ -39,8 +39,8 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     </div>
   </div>
-  <br />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&theme=radical&hide=html" />
+<!--   <br />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianlouza&theme=radical&hide=html" /> -->
  <!--
   <div>
     <h1>My Github Stats 📈</h1>
