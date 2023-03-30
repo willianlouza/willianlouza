@@ -3,24 +3,25 @@
     <img src="https://komarev.com/ghpvc/?username=willianlouza" />
   </div>
   <br />
-  <div>
+<!--   <div>
     <img src="https://raw.githubusercontent.com/willianlouza/willianlouza/master/assets/github-profile-banner-sm.png" />
   </div>
-  <br />
+  <br /> -->
   <div>
    <a href="mailto:willianlouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/willian-louza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    <!--
    <a href="https://www.hackerrank.com/willianlouza"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> -->
     
-  </div>
+<!--   </div>
   <br />
   <p>I am a driven and enthusiastic Full Stack Developer 💻, eager to bring my passion for technology to any project I work on 💜.
     Currently graduated in Systems Analysis and Development 🎓 and with a strong foundation in coding and a drive to always learn and grow 🌱.<br />
     Let's connect and explore what we can achieve together 🚀.
-  </p>
+  </p> -->
   <br />
   <div>
-    <h1>Technology Stack 👨‍💻</h1>
+<!--     <h1>Technology Stack 👨‍💻</h1> -->
+   <hr />
     <div>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
