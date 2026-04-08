@@ -12,7 +12,7 @@
 </div>
 <br />
 
-<img src="https://skillicons.dev/icons?i=cs,php,js,ts,angular,react,redux,tailwind,jquery,electron,nestjs,express,laravel,prisma,postgres,mongodb,firebase,gcp,docker,unity&perline=8" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,react,redux,tailwind,nestjs,express,laravel,prisma,postgres,mongodb,gcp,docker&perline=8" />
 <br />
 <br />
 
